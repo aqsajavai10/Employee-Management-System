@@ -16,7 +16,7 @@ This project follows a **Spring Framework (backend)** + **React (frontend)** arc
 * Assign employees to departments and roles
 * Employee profile page for self-service updates
 
-### 🏢 Department & Role Management
+### Department & Role Management
 
 * Manage company departments
 * Create, update, and delete roles
@@ -48,7 +48,7 @@ This project follows a **Spring Framework (backend)** + **React (frontend)** arc
 * **React Router** for navigation
 * **TailwindCSS / Material UI** for styling
 
-### ⚙️ Backend (Spring Framework)
+### Backend (Spring Framework)
 
 * **Spring Core & MVC** for request handling
 * **Spring Data JPA** for database operations
